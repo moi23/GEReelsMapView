@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.homepage = 'https://github.com/moi23/GEReelsMapView.com'
     s.author   = { 'GEReelsMapView' => 'GEReelsMapView@bakerhugles.com' }
     s.source   = { :git => 'https://github.com/moi23/GEReelsMapView.git', :tag => '1.0.0' }
-    s.source_files = '*'
+   
   
     s.license  = {:type => 'Zlib', :text => <<-TXT
                     This software is provided 'as-is', without any express or implied
