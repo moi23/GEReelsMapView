@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   
  
    s.license  = 'MIT'
-   s.frameworks = 'SVGKit','CocoaLumberjack'
+   s.frameworks = 'SVGKit','CocoaLumberjack','BlocksKit'
    s.subspec 'GEReelsMapView' do |ss|
        ss.source_files = 'GEReelsMapView/*.{h,m}'
      end
